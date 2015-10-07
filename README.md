@@ -1,5 +1,7 @@
 # Cargo-fmt
 
+[![Build Status](https://travis-ci.org/pwoolcoc/cargo-fmt.svg)](https://travis-ci.org/pwoolcoc/cargo-fmt)
+
 Allows you to call `rustfmt` through `cargo`. Useful when using
 `cargo-do`, as it allows you to do `cargo do fmt, build`.
 
