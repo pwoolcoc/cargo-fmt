@@ -5,6 +5,9 @@ authors = ["Paul Woolcock <paul@woolcock.us>"]
 license = "MIT/Apache-2.0"
 repository = "https://github.com/pwoolcoc/cargo-fmt"
 homepage = "https://github.com/pwoolcoc/cargo-fmt"
+description = """
+Allows `rustfmt` to be called through `cargo`
+"""
 
 [dependencies]
 walker = "^1.0.0"
