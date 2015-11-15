@@ -2,8 +2,10 @@
 
 [![Build Status](https://travis-ci.org/pwoolcoc/cargo-fmt.svg)](https://travis-ci.org/pwoolcoc/cargo-fmt)
 
-Allows you to call `rustfmt` through `cargo`. Useful when using
-`cargo-do`, as it allows you to do `cargo do fmt, build`.
+Allows you to call [`rustfmt`](https://github.com/rust-lang-nursery/rustfmt)
+through `cargo`. Useful when using
+[`cargo-do`](https://github.com/pwoolcoc/cargo-do), as it allows you to do
+`cargo do fmt, build`.
 
 Right now there is a restriction that you have to run it from the top
 level of your project, it won't search up the directory tree like cargo
