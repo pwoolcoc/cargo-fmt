@@ -1,2 +1,0 @@
-- Remove the restriction that it has to be run from the toplevel of the project
-- Allow the user to pass arguments through to rustfmt
